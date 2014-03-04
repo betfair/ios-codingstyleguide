@@ -42,10 +42,10 @@ UIApplication.sharedApplication.delegate;
 ```objc
 if (user.isHappy) {
 
-//Do something
+    //Do something
 } else {
 
-//Do something else
+    //Do something else
 }
 ```
 * There should be exactly one blank line between methods to aid in visual clarity and organization. Whitespace within methods should separate functionality, but often there should probably be new methods.
