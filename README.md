@@ -652,7 +652,7 @@ When committing to source control, the message should start with the ID of the U
 **For example:**
 ```objc
 US39872 - Adds translations and checks safe language codes passed to APIs
-[blank line]
+
 - Adds pt-BR and es-AR languages
 - Modifies RESTClient to pass safeUserLanguage to APIs now that we have hyphens in our language codes
 ```
